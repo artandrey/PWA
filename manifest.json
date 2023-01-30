@@ -1,0 +1,22 @@
+{
+    "name": "Urban app",
+    "short_name": "UR APP",
+    "description": "Uraban equals nabur",
+    "icons": [
+        {
+            "src": "assetes/icon.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+
+        {
+            "src": "assetes/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/pwa-examples/js13kpwa/index.html",
+    "display": "fullscreen",
+    "theme_color": "#222222",
+    "background_color": "#ffffff"
+}
